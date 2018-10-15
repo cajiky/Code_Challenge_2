@@ -1,0 +1,31 @@
+{
+  "name": "new_code_challenge_2",
+  "version": "1.0.0",
+  "description": "Code Challenge 2",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [
+    "prime",
+    "tau",
+    "jquery",
+    "node",
+    "express"
+  ],
+  "author": "PrimeAcademy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimeAcademy/code-challenge-2-jokes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrimeAcademy/code-challenge-2-jokes/issues"
+  },
+  "homepage": "https://github.com/PrimeAcademy/code-challenge-2-jokes#readme"
+}
